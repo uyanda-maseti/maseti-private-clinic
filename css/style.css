@@ -5,6 +5,11 @@ body {
 }
 
 header {
-    background: cornflowerblue;
-    margin: 0;
+    background: linear-gradient(to right, #FFB6C1, #e7bf09);
+    text-align: center;
 }
+
+h1 {
+    color: #fff;
+}
+
